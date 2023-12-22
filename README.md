@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web Developer
 -----------------------
 
-I've been coding professionally for over 12 years and as a hobby since 2001. Small biz eCommerce is my niche.
+I've been coding professionally for over 12 years and as a hobby since 2001.
 
-* 🌍  I'm based in Nashville, TN (area)
-* 🧠  I'm learning PostgreSQL, Supabase
+* 🌍  I'm based near Nashville, TN (area)
+
 
 ### Skills
 
@@ -33,13 +33,3 @@ I've been coding professionally for over 12 years and as a hobby since 2001. Sma
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/babeard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/babeard"><img src="https://github-readme-stats.vercel.app/api?username=babeard&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="babeard's GitHub stats" /></a>
-
-<a href="http://www.github.com/babeard"><img src="https://github-readme-streak-stats.herokuapp.com/?user=babeard&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/babeard" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babeard&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
