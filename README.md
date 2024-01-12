@@ -1,12 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Beard
+Hi !My name is Brian Beard
 ===================================================================================================================================
 
 Fullstack Web Developer
 -----------------------
 
-I've been coding professionally for over 12 years and as a hobby since 2001.
 
-* 🌍  I'm based near Nashville, TN (area)
 
 
 ### Skills
